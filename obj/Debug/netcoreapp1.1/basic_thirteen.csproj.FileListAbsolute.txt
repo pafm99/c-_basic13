@@ -1,0 +1,8 @@
+/Users/eriklopez/Desktop/CSharp/basic_thirteen/bin/Debug/netcoreapp1.1/basic_thirteen.deps.json
+/Users/eriklopez/Desktop/CSharp/basic_thirteen/bin/Debug/netcoreapp1.1/basic_thirteen.runtimeconfig.json
+/Users/eriklopez/Desktop/CSharp/basic_thirteen/bin/Debug/netcoreapp1.1/basic_thirteen.runtimeconfig.dev.json
+/Users/eriklopez/Desktop/CSharp/basic_thirteen/obj/Debug/netcoreapp1.1/basic_thirteen.AssemblyInfo.cs
+/Users/eriklopez/Desktop/CSharp/basic_thirteen/bin/Debug/netcoreapp1.1/basic_thirteen.dll
+/Users/eriklopez/Desktop/CSharp/basic_thirteen/bin/Debug/netcoreapp1.1/basic_thirteen.pdb
+/Users/eriklopez/Desktop/CSharp/basic_thirteen/obj/Debug/netcoreapp1.1/basic_thirteen.dll
+/Users/eriklopez/Desktop/CSharp/basic_thirteen/obj/Debug/netcoreapp1.1/basic_thirteen.pdb
